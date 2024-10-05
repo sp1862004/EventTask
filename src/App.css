@@ -1,0 +1,36 @@
+.social-icon {
+    transition: transform 0.2s;
+    color: white;
+    font-size: larger;
+}
+
+.social-icon:hover {
+    transform: scale(1.2);
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.text-hover {
+    padding: 5px 10px; /* Add some padding */
+    background-color: transparent; /* Default background */
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.text-hover:hover {
+    background-color: #007bff; /* Change background color on hover */
+    color: #fff; /* Change text color on hover */
+    border-radius: 5px; /* Optional: Add rounded corners */
+}
+
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+
+
+
